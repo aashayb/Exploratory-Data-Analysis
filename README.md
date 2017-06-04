@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis
+This is the second Assignment of the course offered by Johns Hopkins University, on Coursera. This course covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data.
